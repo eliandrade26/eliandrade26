@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EliAndrade
 - 👀 I'm interested in career transition, looking for an opportunity as a developer
 - 🌱 I am currently learning, building projects, and creating UI & UX designer, I study systems analysis and development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my Instagram eliandrade or email eliandradev@hotmail.com
 
 - 👋 Olá, sou @EliAndrade
